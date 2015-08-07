@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# coding=utf-8
+# coding: utf-8
 
 def is_prime(n):
     for x in range(2, n):
