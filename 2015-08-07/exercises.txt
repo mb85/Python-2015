@@ -1,4 +1,4 @@
-This list and changes available at: https://github.com/mb85/Python-2015/2015-08-07/exercises.txt
+This list and changes available at: https://github.com/mb85/Python-2015/blob/master/2015-08-07/exercises.txt
 
 1. Program to check the numbers from 1 to n, and see if they're prime numbers.
 
