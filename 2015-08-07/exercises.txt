@@ -1,0 +1,29 @@
+This list and changes available at: https://github.com/mb85/Python-2015/2015-08-07/exercises.txt
+
+1. Program to check the numbers from 1 to n, and see if they're prime numbers.
+
+2. Write a program that takes a sentence from the user, and prints the number of vowels and consonants in it.
+
+3. Write a program that rolls three six-sided dice as many times as the user likes.
+
+4. Write a program that takes a string of numbers from the user, eg. "123456789", and prints the sum of them.
+
+5. Write a program that takes a string of numbers from the user, eg. "123456789", and prints the average of them.
+
+6. Write a program that prints a Collatz sequence, starting at any number the user specifies.
+
+7. Write a program that takes a sentence from the user, shuffles the words, and prints them back out again.
+
+8. Write a program that calculates the height of a tree, based upon where a person is standing at ground level.
+
+9. Open a file and count the number of words in it.
+
+10. Write a program which plays "Rock, Paper, Scissors" with the user.
+
+11. Write a program that displays a times table the size that the user requests. For example, if the user enters "5", print:
+
+1,  2,  3,  4,  5
+2,  4,  6,  8,  10
+3,  6,  9,  12, 15
+4,  8,  12, 16, 20
+5,  10, 15, 20, 25
