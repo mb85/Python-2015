@@ -16,7 +16,7 @@ This list and changes available at: https://github.com/mb85/Python-2015/blob/mas
 
 8. Write a program that calculates the height of a tree, based upon where a person is standing at ground level.
 
-9. Open a file and count the number of words in it.
+9. Open a text file and count the number of words in it.
 
 10. Write a program which plays "Rock, Paper, Scissors" with the user.
 
