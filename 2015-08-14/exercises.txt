@@ -1,0 +1,32 @@
+------------------------------------
+Programming exercises for 2015-08-14
+------------------------------------
+
+1. Write a program to calculate the factorial of a number. Yes, you could import the factorial function from the "math" module, but don't.
+
+2. Write a program that outputs the Fibonacci Sequence.
+
+3. Write a program that calculates the distance between two points in 3D space (you can Google the formula).
+
+4. Write a program which displays the first n automorphic numbers. An automorphic number is a number whose square ends in the same digit as the number itself. E.g. 25 is an automorphic number because square of 25 = 625 (so the square ends with the number 25 itself).
+
+5. Write a program that automatically converts English text to Morse code.
+
+6. Write a function that combines two lists by alternatingly taking elements, e.g. [a, b, c], [1, 2, 3] -> [a, 1, b, 2, c, 3].
+
+7. Write a program that reads a text file, and outputs the top twenty most common words contained within it.
+
+8. Write a program that reads a text file, and returns the longest word contained within it.
+
+9. Write a program that takes a word as input, and checks whether all the letters in it are unique.
+
+10. Write a program that accepts a series of strings entered by the user, then displays them in a frame. For example:
+
+    *********************
+    * This is some text *
+    * in a frame!       *
+    *********************
+
+Use whatever character you like to separate the text into lines, such as "|".
+
+11. Write a program that allows you to choose five (or maybe more) numbers, then simulates a lottery draw, counting how many times it would take before you won.
