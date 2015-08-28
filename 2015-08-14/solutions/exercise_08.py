@@ -4,14 +4,23 @@
 import sys
 
 
+def count(path: str):
+    largest_word = ""
+    with open(path) as f:
+        for line in f:
+            for word in line.split():
+                largest_word = word if len(word) > len(largest_word) else largest_word
+
+    return largest_word
+
+
 def main():
     args = sys.argv[1:]
     if args:
-        word = args[0]
-        if len(set(word)) == len(word):
-            print("All letters in this word are unique.")
-        else:
-            print("Not all letters in this word are unique.")
+        path = args[0]
+        lrg = count(path)
+        print("The longest word in this text was \"{}\", with a length of {}.".format(lrg, len(lrg)))
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     sys.exit(main())
