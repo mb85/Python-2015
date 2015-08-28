@@ -1,0 +1,29 @@
+Writing a Caesar Cipher Program
+-------------------------------
+
+What we want:
+-------------
+
+A program to take some text and rotate each character by n letters, depending on what the user requires. It needs to be able to both encode and decode text, depending on the command line arguments. Do not use input() to get the inputs from the user. It should use a --help/-h option to display help text, and display an error if no text is supplied.
+
+Logical Steps:
+--------------
+
+1. Find a way to rotate characters by a certain number.
+
+2. Write a function to do this.
+
+3. Create options, help text, and use argparse to store them.
+
+4. Use logic to alter your program behaviour depending on user input, and write the main part of your program.
+
+
+* Use the binary encoder/decoder program we wrote for help.
+
+* Check out the Collections module for the deque class.
+
+* Use the argparse module to get arguments from the command line. Use https://docs.python.org/3.4/howto/argparse.html for help.
+
+* Submit your program to https://goo.gl/iDIVwx.
+
+Github: https://github.com/mb85/Python-2015
