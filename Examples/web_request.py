@@ -22,4 +22,3 @@ parameters = urllib.parse.urlencode(data)
 # The full url, now with parameters at the end
 full_url = "?".join([url, parameters])
 print(full_url)
-
