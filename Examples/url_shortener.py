@@ -4,7 +4,8 @@
 import sys
 import requests
 
-API_KEY = open("api_key").read()
+with open("api_key") as f:
+    API_KEY = f.read()
 
 
 def main():
